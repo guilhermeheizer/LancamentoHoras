@@ -2,9 +2,9 @@
 # ChatGPT vs Python  
 Nós desenvolvedores estamos utilizando a Inteligência Artificial a nosso favor no dia-a-dia do nosso trabalho com o objetivo de o melhorar trechos de códigos, adaptar o código para as regras do SonarLint, preparar testes unitários para sistemas construídos em Python, C#, Java e outras linguagens.
 
-Então, preparei uma explicação para que o ChatGT 3.0 construa uma aplicação desktop para lançamento de horas de estudo ou trabalho que faça inserção dos dados num banco de dados MySQL.
+Então, preparei uma explicação para que o ChatGPT 3.0 construa uma aplicação desktop para lançamento de horas de estudo ou trabalho que faça inserção dos dados num banco de dados MySQL.
 
-Segue a explicação da aplicação que inseri no ChatGT:
+Segue a explicação da aplicação que inseri no ChatGPT:
 
 Criar um sistema em Pyton 3.9 utilizando a biblioteca Tkinter para lançamento de horas de estudo como o nome 'Lanca Horas'
 
