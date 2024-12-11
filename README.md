@@ -1,14 +1,14 @@
 
 # ChatGT vs Python  
-Nós desenvolvedores estamos utilizando a Inteligência Articial a nosso favor no dia-a-dia do nosso trabalho com o bojetivo de o melhorar trechos de códigos, adaptar o código para as regras do SonarLint, preparar testes unitários para sistemas construídos em Python, C#, Java e outras linguagens.
+Nós desenvolvedores estamos utilizando a Inteligência Artificial a nosso favor no dia-a-dia do nosso trabalho com o ojetivo de o melhorar trechos de códigos, adaptar o código para as regras do SonarLint, preparar testes unitários para sistemas construídos em Python, C#, Java e outras linguagens.
 
 Então, preparei uma explicação para que o ChatGT 3.0 construa uma aplicação desktop para lançamento de horas de estudo ou trabalho que faça inserção dos dados num banco de dados MySQL.
 
 Segue a explicação da aplicação que inseri no ChatGT:
 
-Criar uma sistema em Pyton 3.9 utilizando a biblioteca Tkinter para lançamento de horas de estudo como o nome 'Lanca Horas'
+Criar um sistema em Pyton 3.9 utilizando a biblioteca Tkinter para lançamento de horas de estudo como o nome 'Lanca Horas'
 
-O banco de dados será o MySql e o database de nome horas. Segue abaixo o schema do banco "horas" com as tabelas: atividade, pessoa e horaslancadas.
+O banco de dados será o MySql e o database de nome "horas". Segue abaixo o schema do banco "horas" com as tabelas: atividade, pessoa e horaslancadas.
 
 use horas;
 
@@ -50,6 +50,8 @@ A opção do menu 'Cadastrar Atividade' vai acessar a tabela 'Atividade' e deve 
 
 A opção do menu 'Lançar horas vai acessar a tabela 'horaslancadas' e deve possibilitar realizar consultas, inserts, update e delate na tabela 'horaslancadas'.
 
+Executei a aplicação através do VC Code.
+É necessário rodar: pip install mysql-connector-python
 
 ```
 O projeto esta disponível no github: https://github.com/guilhermeheizer/LancamentoHoras
