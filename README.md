@@ -50,7 +50,7 @@ A opção do menu 'Cadastrar Atividade' vai acessar a tabela 'Atividade' e deve 
 
 A opção do menu 'Lançar horas vai acessar a tabela 'horaslancadas' e deve possibilitar realizar consultas, inserts, update e delate na tabela 'horaslancadas'.
 
-Executei a aplicação através do VC Code.
+Executei a aplicação através do VS Code.
 É necessário rodar: pip install mysql-connector-python
 
 ```
